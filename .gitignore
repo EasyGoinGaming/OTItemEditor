@@ -1,0 +1,14 @@
+# Scripts
+release/
+debug/
+
+# Visual studio intermediate directories
+bin/
+obj/
+*.suo
+*.csproj.user
+*.vs/
+
+# StyleCop
+stylecop.*
+*cache
